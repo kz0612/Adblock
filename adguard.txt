@@ -1,1 +1,5 @@
+ghxi.com##body>div:last-child
 
+juejin.cn###juejin > div.recommend-box
+
+sveltematerialui.com##body.ukraine::after
