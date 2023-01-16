@@ -2,4 +2,6 @@ ghxi.com##body>div:last-child
 
 juejin.cn###juejin > div.recommend-box
 
+quan.ithome.com##div.open-app
+
 sveltematerialui.com##body.ukraine::after
